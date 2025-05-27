@@ -1,0 +1,267 @@
+﻿country_name;country_code;indicator;gdp_per_capita;year
+Aruba;ABW;GDP per capita (current US$);33985;2023
+Africa Eastern and Southern;AFE;GDP per capita (current US$);1660;2023
+Afghanistan;AFG;GDP per capita (current US$);416;2023
+Africa Western and Central;AFW;GDP per capita (current US$);1569;2023
+Angola;AGO;GDP per capita (current US$);2308;2023
+Albania;ALB;GDP per capita (current US$);8575;2023
+Andorra;AND;GDP per capita (current US$);46812;2023
+Arab World;ARB;GDP per capita (current US$);7292;2023
+United Arab Emirates;ARE;GDP per capita (current US$);49041;2023
+Argentina;ARG;GDP per capita (current US$);14187;2023
+Armenia;ARM;GDP per capita (current US$);8053;2023
+American Samoa;ASM;GDP per capita (current US$);;2023
+Antigua and Barbuda;ATG;GDP per capita (current US$);21787;2023
+Australia;AUS;GDP per capita (current US$);64821;2023
+Austria;AUT;GDP per capita (current US$);56034;2023
+Azerbaijan;AZE;GDP per capita (current US$);7126;2023
+Burundi;BDI;GDP per capita (current US$);193;2023
+Belgium;BEL;GDP per capita (current US$);54701;2023
+Benin;BEN;GDP per capita (current US$);1394;2023
+Burkina Faso;BFA;GDP per capita (current US$);883;2023
+Bangladesh;BGD;GDP per capita (current US$);2551;2023
+Bulgaria;BGR;GDP per capita (current US$);15886;2023
+Bahrain;BHR;GDP per capita (current US$);29219;2023
+Bahamas, The;BHS;GDP per capita (current US$);35897;2023
+Bosnia and Herzegovina;BIH;GDP per capita (current US$);8639;2023
+Belarus;BLR;GDP per capita (current US$);7829;2023
+Belize;BLZ;GDP per capita (current US$);7460;2023
+Bermuda;BMU;GDP per capita (current US$);125842;2023
+Bolivia;BOL;GDP per capita (current US$);3686;2023
+Brazil;BRA;GDP per capita (current US$);10295;2023
+Barbados;BRB;GDP per capita (current US$);23804;2023
+Brunei Darussalam;BRN;GDP per capita (current US$);32963;2023
+Bhutan;BTN;GDP per capita (current US$);;2023
+Botswana;BWA;GDP per capita (current US$);7820;2023
+Central African Republic;CAF;GDP per capita (current US$);496;2023
+Canada;CAN;GDP per capita (current US$);53431;2023
+Central Europe and the Baltics;CEB;GDP per capita (current US$);22638;2023
+Switzerland;CHE;GDP per capita (current US$);99565;2023
+Channel Islands;CHI;GDP per capita (current US$);74589;2023
+Chile;CHL;GDP per capita (current US$);17068;2023
+China;CHN;GDP per capita (current US$);12614;2023
+Cote d'Ivoire;CIV;GDP per capita (current US$);2531;2023
+Cameroon;CMR;GDP per capita (current US$);1737;2023
+Congo, Dem. Rep.;COD;GDP per capita (current US$);628;2023
+Congo, Rep.;COG;GDP per capita (current US$);2478;2023
+Colombia;COL;GDP per capita (current US$);6947;2023
+Comoros;COM;GDP per capita (current US$);1590;2023
+Cabo Verde;CPV;GDP per capita (current US$);4851;2023
+Costa Rica;CRI;GDP per capita (current US$);16942;2023
+Caribbean small states;CSS;GDP per capita (current US$);16907;2023
+Cuba;CUB;GDP per capita (current US$);;2023
+Curacao;CUW;GDP per capita (current US$);22192;2023
+Cayman Islands;CYM;GDP per capita (current US$);97750;2023
+Cyprus;CYP;GDP per capita (current US$);36551;2023
+Czechia;CZE;GDP per capita (current US$);31591;2023
+Germany;DEU;GDP per capita (current US$);54343;2023
+Djibouti;DJI;GDP per capita (current US$);3555;2023
+Dominica;DMA;GDP per capita (current US$);9833;2023
+Denmark;DNK;GDP per capita (current US$);68454;2023
+Dominican Republic;DOM;GDP per capita (current US$);10718;2023
+Algeria;DZA;GDP per capita (current US$);5364;2023
+East Asia & Pacific (excluding high income);EAP;GDP per capita (current US$);9901;2023
+Early-demographic dividend;EAR;GDP per capita (current US$);4257;2023
+East Asia & Pacific;EAS;GDP per capita (current US$);12909;2023
+Europe & Central Asia (excluding high income);ECA;GDP per capita (current US$);8548;2023
+Europe & Central Asia;ECS;GDP per capita (current US$);29789;2023
+Ecuador;ECU;GDP per capita (current US$);6610;2023
+Egypt, Arab Rep.;EGY;GDP per capita (current US$);3457;2023
+Euro area;EMU;GDP per capita (current US$);45130;2023
+Eritrea;ERI;GDP per capita (current US$);;2023
+Spain;ESP;GDP per capita (current US$);33509;2023
+Estonia;EST;GDP per capita (current US$);30133;2023
+Ethiopia;ETH;GDP per capita (current US$);1272;2023
+European Union;EUU;GDP per capita (current US$);41423;2023
+Fragile and conflict affected situations;FCS;GDP per capita (current US$);1830;2023
+Finland;FIN;GDP per capita (current US$);52926;2023
+Fiji;FJI;GDP per capita (current US$);5889;2023
+France;FRA;GDP per capita (current US$);44691;2023
+Faroe Islands;FRO;GDP per capita (current US$);71718;2023
+Micronesia, Fed. Sts.;FSM;GDP per capita (current US$);4084;2023
+Gabon;GAB;GDP per capita (current US$);7803;2023
+United Kingdom;GBR;GDP per capita (current US$);49464;2023
+Georgia;GEO;GDP per capita (current US$);8284;2023
+Ghana;GHA;GDP per capita (current US$);2260;2023
+Gibraltar;GIB;GDP per capita (current US$);;2023
+Guinea;GIN;GDP per capita (current US$);1541;2023
+Gambia, The;GMB;GDP per capita (current US$);888;2023
+Guinea-Bissau;GNB;GDP per capita (current US$);951;2023
+Equatorial Guinea;GNQ;GDP per capita (current US$);6678;2023
+Greece;GRC;GDP per capita (current US$);23401;2023
+Grenada;GRD;GDP per capita (current US$);11246;2023
+Greenland;GRL;GDP per capita (current US$);;2023
+Guatemala;GTM;GDP per capita (current US$);5763;2023
+Guam;GUM;GDP per capita (current US$);;2023
+Guyana;GUY;GDP per capita (current US$);20765;2023
+High income;HIC;GDP per capita (current US$);48753;2023
+Hong Kong SAR, China;HKG;GDP per capita (current US$);50532;2023
+Honduras;HND;GDP per capita (current US$);3232;2023
+Heavily indebted poor countries (HIPC);HPC;GDP per capita (current US$);1232;2023
+Croatia;HRV;GDP per capita (current US$);21865;2023
+Haiti;HTI;GDP per capita (current US$);1706;2023
+Hungary;HUN;GDP per capita (current US$);22142;2023
+IBRD only;IBD;GDP per capita (current US$);7832;2023
+IDA & IBRD total;IBT;GDP per capita (current US$);6075;2023
+IDA total;IDA;GDP per capita (current US$);1511;2023
+IDA blend;IDB;GDP per capita (current US$);1687;2023
+Indonesia;IDN;GDP per capita (current US$);4876;2023
+IDA only;IDX;GDP per capita (current US$);1425;2023
+Isle of Man;IMN;GDP per capita (current US$);;2023
+India;IND;GDP per capita (current US$);2481;2023
+Not classified;INX;GDP per capita (current US$);;2023
+Ireland;IRL;GDP per capita (current US$);103888;2023
+Iran, Islamic Rep.;IRN;GDP per capita (current US$);4466;2023
+Iraq;IRQ;GDP per capita (current US$);5565;2023
+Iceland;ISL;GDP per capita (current US$);79637;2023
+Israel;ISR;GDP per capita (current US$);52642;2023
+Italy;ITA;GDP per capita (current US$);39003;2023
+Jamaica;JAM;GDP per capita (current US$);6840;2023
+Jordan;JOR;GDP per capita (current US$);4456;2023
+Japan;JPN;GDP per capita (current US$);33767;2023
+Kazakhstan;KAZ;GDP per capita (current US$);12919;2023
+Kenya;KEN;GDP per capita (current US$);1952;2023
+Kyrgyz Republic;KGZ;GDP per capita (current US$);1970;2023
+Cambodia;KHM;GDP per capita (current US$);2430;2023
+Kiribati;KIR;GDP per capita (current US$);2107;2023
+St. Kitts and Nevis;KNA;GDP per capita (current US$);22574;2023
+Korea, Rep.;KOR;GDP per capita (current US$);33121;2023
+Kuwait;KWT;GDP per capita (current US$);33730;2023
+Latin America & Caribbean (excluding high income);LAC;GDP per capita (current US$);10181;2023
+Lao PDR;LAO;GDP per capita (current US$);2067;2023
+Lebanon;LBN;GDP per capita (current US$);;2023
+Liberia;LBR;GDP per capita (current US$);772;2023
+Libya;LBY;GDP per capita (current US$);6173;2023
+St. Lucia;LCA;GDP per capita (current US$);13555;2023
+Latin America & Caribbean;LCN;GDP per capita (current US$);10797;2023
+Least developed countries: UN classification;LDC;GDP per capita (current US$);1306;2023
+Low income;LIC;GDP per capita (current US$);901;2023
+Liechtenstein;LIE;GDP per capita (current US$);;2023
+Sri Lanka;LKA;GDP per capita (current US$);3828;2023
+Lower middle income;LMC;GDP per capita (current US$);2416;2023
+Low & middle income;LMY;GDP per capita (current US$);5659;2023
+Lesotho;LSO;GDP per capita (current US$);916;2023
+Late-demographic dividend;LTE;GDP per capita (current US$);12184;2023
+Lithuania;LTU;GDP per capita (current US$);27786;2023
+Luxembourg;LUX;GDP per capita (current US$);128678;2023
+Latvia;LVA;GDP per capita (current US$);22503;2023
+Macao SAR, China;MAC;GDP per capita (current US$);67477;2023
+St. Martin (French part);MAF;GDP per capita (current US$);;2023
+Morocco;MAR;GDP per capita (current US$);3771;2023
+Monaco;MCO;GDP per capita (current US$);256581;2023
+Moldova;MDA;GDP per capita (current US$);6729;2023
+Madagascar;MDG;GDP per capita (current US$);506;2023
+Maldives;MDV;GDP per capita (current US$);12530;2023
+Middle East & North Africa;MEA;GDP per capita (current US$);8500;2023
+Mexico;MEX;GDP per capita (current US$);13790;2023
+Marshall Islands;MHL;GDP per capita (current US$);6678;2023
+Middle income;MIC;GDP per capita (current US$);6254;2023
+North Macedonia;MKD;GDP per capita (current US$);8624;2023
+Mali;MLI;GDP per capita (current US$);869;2023
+Malta;MLT;GDP per capita (current US$);40396;2023
+Myanmar;MMR;GDP per capita (current US$);1233;2023
+Middle East & North Africa (excluding high income);MNA;GDP per capita (current US$);3797;2023
+Montenegro;MNE;GDP per capita (current US$);12221;2023
+Mongolia;MNG;GDP per capita (current US$);5839;2023
+Northern Mariana Islands;MNP;GDP per capita (current US$);;2023
+Mozambique;MOZ;GDP per capita (current US$);623;2023
+Mauritania;MRT;GDP per capita (current US$);2121;2023
+Mauritius;MUS;GDP per capita (current US$);11613;2023
+Malawi;MWI;GDP per capita (current US$);602;2023
+Malaysia;MYS;GDP per capita (current US$);11379;2023
+North America;NAC;GDP per capita (current US$);79640;2023
+Namibia;NAM;GDP per capita (current US$);4168;2023
+New Caledonia;NCL;GDP per capita (current US$);;2023
+Niger;NER;GDP per capita (current US$);643;2023
+Nigeria;NGA;GDP per capita (current US$);1597;2023
+Nicaragua;NIC;GDP per capita (current US$);2613;2023
+Netherlands;NLD;GDP per capita (current US$);64572;2023
+Norway;NOR;GDP per capita (current US$);87925;2023
+Nepal;NPL;GDP per capita (current US$);1378;2023
+Nauru;NRU;GDP per capita (current US$);12983;2023
+New Zealand;NZL;GDP per capita (current US$);48281;2023
+OECD members;OED;GDP per capita (current US$);46724;2023
+Oman;OMN;GDP per capita (current US$);21550;2023
+Other small states;OSS;GDP per capita (current US$);16728;2023
+Pakistan;PAK;GDP per capita (current US$);1365;2023
+Panama;PAN;GDP per capita (current US$);18686;2023
+Peru;PER;GDP per capita (current US$);7907;2023
+Philippines;PHL;GDP per capita (current US$);3805;2023
+Palau;PLW;GDP per capita (current US$);15899;2023
+Papua New Guinea;PNG;GDP per capita (current US$);2958;2023
+Poland;POL;GDP per capita (current US$);22057;2023
+Pre-demographic dividend;PRE;GDP per capita (current US$);1453;2023
+Puerto Rico;PRI;GDP per capita (current US$);36779;2023
+Korea, Dem. People's Rep.;PRK;GDP per capita (current US$);;2023
+Portugal;PRT;GDP per capita (current US$);27331;2023
+Paraguay;PRY;GDP per capita (current US$);6276;2023
+West Bank and Gaza;PSE;GDP per capita (current US$);3372;2023
+Pacific island small states;PSS;GDP per capita (current US$);4146;2023
+Post-demographic dividend;PST;GDP per capita (current US$);54042;2023
+French Polynesia;PYF;GDP per capita (current US$);;2023
+Qatar;QAT;GDP per capita (current US$);80196;2023
+Romania;ROU;GDP per capita (current US$);18404;2023
+Russian Federation;RUS;GDP per capita (current US$);13817;2023
+Rwanda;RWA;GDP per capita (current US$);1010;2023
+South Asia;SAS;GDP per capita (current US$);2303;2023
+Saudi Arabia;SAU;GDP per capita (current US$);32094;2023
+Sudan;SDN;GDP per capita (current US$);2183;2023
+Senegal;SEN;GDP per capita (current US$);1706;2023
+Singapore;SGP;GDP per capita (current US$);84734;2023
+Solomon Islands;SLB;GDP per capita (current US$);2042;2023
+Sierra Leone;SLE;GDP per capita (current US$);758;2023
+El Salvador;SLV;GDP per capita (current US$);5391;2023
+San Marino;SMR;GDP per capita (current US$);;2023
+Somalia;SOM;GDP per capita (current US$);597;2023
+Serbia;SRB;GDP per capita (current US$);12282;2023
+Sub-Saharan Africa (excluding high income);SSA;GDP per capita (current US$);1621;2023
+South Sudan;SSD;GDP per capita (current US$);;2023
+Sub-Saharan Africa;SSF;GDP per capita (current US$);1623;2023
+Small states;SST;GDP per capita (current US$);15086;2023
+Sao Tome and Principe;STP;GDP per capita (current US$);2941;2023
+Suriname;SUR;GDP per capita (current US$);5494;2023
+Slovakia;SVK;GDP per capita (current US$);24491;2023
+Slovenia;SVN;GDP per capita (current US$);32610;2023
+Sweden;SWE;GDP per capita (current US$);55517;2023
+Eswatini;SWZ;GDP per capita (current US$);3611;2023
+Sint Maarten (Dutch part);SXM;GDP per capita (current US$);38078;2023
+Seychelles;SYC;GDP per capita (current US$);17879;2023
+Syrian Arab Republic;SYR;GDP per capita (current US$);;2023
+Turks and Caicos Islands;TCA;GDP per capita (current US$);30349;2023
+Chad;TCD;GDP per capita (current US$);681;2023
+East Asia & Pacific (IDA & IBRD countries);TEA;GDP per capita (current US$);10012;2023
+Europe & Central Asia (IDA & IBRD countries);TEC;GDP per capita (current US$);11977;2023
+Togo;TGO;GDP per capita (current US$);986;2023
+Thailand;THA;GDP per capita (current US$);7182;2023
+Tajikistan;TJK;GDP per capita (current US$);1161;2023
+Turkmenistan;TKM;GDP per capita (current US$);8233;2023
+Latin America & the Caribbean (IDA & IBRD countries);TLA;GDP per capita (current US$);10554;2023
+Timor-Leste;TLS;GDP per capita (current US$);1503;2023
+Middle East & North Africa (IDA & IBRD countries);TMN;GDP per capita (current US$);3802;2023
+Tonga;TON;GDP per capita (current US$);;2023
+South Asia (IDA & IBRD);TSA;GDP per capita (current US$);2303;2023
+Sub-Saharan Africa (IDA & IBRD countries);TSS;GDP per capita (current US$);1623;2023
+Trinidad and Tobago;TTO;GDP per capita (current US$);20016;2023
+Tunisia;TUN;GDP per capita (current US$);3978;2023
+Turkiye;TUR;GDP per capita (current US$);13106;2023
+Tuvalu;TUV;GDP per capita (current US$);6345;2023
+Tanzania;TZA;GDP per capita (current US$);1224;2023
+Uganda;UGA;GDP per capita (current US$);1002;2023
+Ukraine;UKR;GDP per capita (current US$);5070;2023
+Upper middle income;UMC;GDP per capita (current US$);10451;2023
+Uruguay;URY;GDP per capita (current US$);22798;2023
+United States;USA;GDP per capita (current US$);82769;2023
+Uzbekistan;UZB;GDP per capita (current US$);2850;2023
+St. Vincent and the Grenadines;VCT;GDP per capita (current US$);10520;2023
+Venezuela, RB;VEN;GDP per capita (current US$);;2023
+British Virgin Islands;VGB;GDP per capita (current US$);;2023
+Virgin Islands (U.S.);VIR;GDP per capita (current US$);;2023
+Viet Nam;VNM;GDP per capita (current US$);4282;2023
+Vanuatu;VUT;GDP per capita (current US$);3515;2023
+World;WLD;GDP per capita (current US$);13170;2023
+Samoa;WSM;GDP per capita (current US$);4330;2023
+Kosovo;XKX;GDP per capita (current US$);5960;2023
+Yemen, Rep.;YEM;GDP per capita (current US$);477;2023
+South Africa;ZAF;GDP per capita (current US$);6023;2023
+Zambia;ZMB;GDP per capita (current US$);1331;2023
+Zimbabwe;ZWE;GDP per capita (current US$);2156;2023

@@ -1,0 +1,265 @@
+country_name;country_code;indicator;value;year
+Aruba;ABW;Labor force, total;;2024
+Africa Eastern and Southern;AFE;Labor force, total;291834242;2024
+Afghanistan;AFG;Labor force, total;9132918;2024
+Africa Western and Central;AFW;Labor force, total;218340363;2024
+Angola;AGO;Labor force, total;15960547;2024
+Albania;ALB;Labor force, total;1375007;2024
+Andorra;AND;Labor force, total;;2024
+Arab World;ARB;Labor force, total;133278661;2024
+United Arab Emirates;ARE;Labor force, total;7076637;2024
+Argentina;ARG;Labor force, total;22285744;2024
+Armenia;ARM;Labor force, total;1478086;2024
+American Samoa;ASM;Labor force, total;;2024
+Antigua and Barbuda;ATG;Labor force, total;;2024
+Australia;AUS;Labor force, total;14751708;2024
+Austria;AUT;Labor force, total;4737676;2024
+Azerbaijan;AZE;Labor force, total;5028403;2024
+Burundi;BDI;Labor force, total;6106804;2024
+Belgium;BEL;Labor force, total;5384783;2024
+Benin;BEN;Labor force, total;6397139;2024
+Burkina Faso;BFA;Labor force, total;6461318;2024
+Bangladesh;BGD;Labor force, total;77355168;2024
+Bulgaria;BGR;Labor force, total;3106255;2024
+Bahrain;BHR;Labor force, total;928809;2024
+Bahamas, The;BHS;Labor force, total;237110;2024
+Bosnia and Herzegovina;BIH;Labor force, total;1355710;2024
+Belarus;BLR;Labor force, total;4810515;2024
+Belize;BLZ;Labor force, total;189961;2024
+Bermuda;BMU;Labor force, total;;2024
+Bolivia;BOL;Labor force, total;6859259;2024
+Brazil;BRA;Labor force, total;106790403;2024
+Barbados;BRB;Labor force, total;147247;2024
+Brunei Darussalam;BRN;Labor force, total;233520;2024
+Bhutan;BTN;Labor force, total;406457;2024
+Botswana;BWA;Labor force, total;1173186;2024
+Central African Republic;CAF;Labor force, total;2000171;2024
+Canada;CAN;Labor force, total;22426179;2024
+Central Europe and the Baltics;CEB;Labor force, total;48669073;2024
+Switzerland;CHE;Labor force, total;5095280;2024
+Channel Islands;CHI;Labor force, total;82396;2024
+Chile;CHL;Labor force, total;10088445;2024
+China;CHN;Labor force, total;773128536;2024
+Cote d'Ivoire;CIV;Labor force, total;12594667;2024
+Cameroon;CMR;Labor force, total;11118837;2024
+Congo, Dem. Rep.;COD;Labor force, total;38546033;2024
+Congo, Rep.;COG;Labor force, total;2563444;2024
+Colombia;COL;Labor force, total;26821693;2024
+Comoros;COM;Labor force, total;276379;2024
+Cabo Verde;CPV;Labor force, total;224498;2024
+Costa Rica;CRI;Labor force, total;2357187;2024
+Caribbean small states;CSS;Labor force, total;1276548;2024
+Cuba;CUB;Labor force, total;4858882;2024
+Curacao;CUW;Labor force, total;;2024
+Cayman Islands;CYM;Labor force, total;;2024
+Cyprus;CYP;Labor force, total;772322;2024
+Czechia;CZE;Labor force, total;5474378;2024
+Germany;DEU;Labor force, total;43483244;2024
+Djibouti;DJI;Labor force, total;265171;2024
+Dominica;DMA;Labor force, total;;2024
+Denmark;DNK;Labor force, total;3206831;2024
+Dominican Republic;DOM;Labor force, total;5413316;2024
+Algeria;DZA;Labor force, total;13294279;2024
+East Asia & Pacific (excluding high income);EAP;Labor force, total;1143899051;2024
+Early-demographic dividend;EAR;Labor force, total;1462487254;2024
+East Asia & Pacific;EAS;Labor force, total;1281243092;2024
+Europe & Central Asia (excluding high income);ECA;Labor force, total;90297005;2024
+Europe & Central Asia;ECS;Labor force, total;426081828;2024
+Ecuador;ECU;Labor force, total;8820523;2024
+Egypt, Arab Rep.;EGY;Labor force, total;33748776;2024
+Euro area;EMU;Labor force, total;171382268;2024
+Eritrea;ERI;Labor force, total;1709561;2024
+Spain;ESP;Labor force, total;24150475;2024
+Estonia;EST;Labor force, total;747758;2024
+Ethiopia;ETH;Labor force, total;54470278;2024
+European Union;EUU;Labor force, total;220191417;2024
+Fragile and conflict affected situations;FCS;Labor force, total;370754445;2024
+Finland;FIN;Labor force, total;2875562;2024
+Fiji;FJI;Labor force, total;387815;2024
+France;FRA;Labor force, total;31664715;2024
+Faroe Islands;FRO;Labor force, total;;2024
+Micronesia, Fed. Sts.;FSM;Labor force, total;;2024
+Gabon;GAB;Labor force, total;824439;2024
+United Kingdom;GBR;Labor force, total;35126154;2024
+Georgia;GEO;Labor force, total;1853718;2024
+Ghana;GHA;Labor force, total;13927871;2024
+Gibraltar;GIB;Labor force, total;;2024
+Guinea;GIN;Labor force, total;4534264;2024
+Gambia, The;GMB;Labor force, total;783147;2024
+Guinea-Bissau;GNB;Labor force, total;845297;2024
+Equatorial Guinea;GNQ;Labor force, total;714966;2024
+Greece;GRC;Labor force, total;4582029;2024
+Grenada;GRD;Labor force, total;;2024
+Greenland;GRL;Labor force, total;;2024
+Guatemala;GTM;Labor force, total;7575261;2024
+Guam;GUM;Labor force, total;77700;2024
+Guyana;GUY;Labor force, total;292190;2024
+High income;HIC;Labor force, total;721744071;2024
+Hong Kong SAR, China;HKG;Labor force, total;3822899;2024
+Honduras;HND;Labor force, total;4295619;2024
+Heavily indebted poor countries (HIPC);HPC;Labor force, total;346079222;2024
+Croatia;HRV;Labor force, total;1718030;2024
+Haiti;HTI;Labor force, total;5281030;2024
+Hungary;HUN;Labor force, total;4955294;2024
+IBRD only;IBD;Labor force, total;2325196843;2024
+IDA & IBRD total;IBT;Labor force, total;3064953991;2024
+IDA total;IDA;Labor force, total;739757148;2024
+IDA blend;IDB;Labor force, total;260696743;2024
+Indonesia;IDN;Labor force, total;143143940;2024
+IDA only;IDX;Labor force, total;479060405;2024
+Isle of Man;IMN;Labor force, total;;2024
+India;IND;Labor force, total;607691498;2024
+Not classified;INX;Labor force, total;;2024
+Ireland;IRL;Labor force, total;2847299;2024
+Iran, Islamic Rep.;IRN;Labor force, total;28574661;2024
+Iraq;IRQ;Labor force, total;12008181;2024
+Iceland;ISL;Labor force, total;244745;2024
+Israel;ISR;Labor force, total;4670812;2024
+Italy;ITA;Labor force, total;25742645;2024
+Jamaica;JAM;Labor force, total;1570210;2024
+Jordan;JOR;Labor force, total;3079844;2024
+Japan;JPN;Labor force, total;69268784;2024
+Kazakhstan;KAZ;Labor force, total;10285416;2024
+Kenya;KEN;Labor force, total;23781100;2024
+Kyrgyz Republic;KGZ;Labor force, total;3191542;2024
+Cambodia;KHM;Labor force, total;9903822;2024
+Kiribati;KIR;Labor force, total;;2024
+St. Kitts and Nevis;KNA;Labor force, total;;2024
+Korea, Rep.;KOR;Labor force, total;29646932;2024
+Kuwait;KWT;Labor force, total;2991125;2024
+Latin America & Caribbean (excluding high income);LAC;Labor force, total;293022869;2024
+Lao PDR;LAO;Labor force, total;3584797;2024
+Lebanon;LBN;Labor force, total;;2024
+Liberia;LBR;Labor force, total;2606936;2024
+Libya;LBY;Labor force, total;2584879;2024
+St. Lucia;LCA;Labor force, total;102438;2024
+Latin America & Caribbean;LCN;Labor force, total;320746299;2024
+Least developed countries: UN classification;LDC;Labor force, total;439198236;2024
+Low income;LIC;Labor force, total;259418682;2024
+Liechtenstein;LIE;Labor force, total;;2024
+Sri Lanka;LKA;Labor force, total;8593368;2024
+Lower middle income;LMC;Labor force, total;1288565442;2024
+Low & middle income;LMY;Labor force, total;2957665000;2024
+Lesotho;LSO;Labor force, total;884160;2024
+Late-demographic dividend;LTE;Labor force, total;1237665681;2024
+Lithuania;LTU;Labor force, total;1530208;2024
+Luxembourg;LUX;Labor force, total;348063;2024
+Latvia;LVA;Labor force, total;954394;2024
+Macao SAR, China;MAC;Labor force, total;373775;2024
+St. Martin (French part);MAF;Labor force, total;;2024
+Morocco;MAR;Labor force, total;12475182;2024
+Monaco;MCO;Labor force, total;;2024
+Moldova;MDA;Labor force, total;1377509;2024
+Madagascar;MDG;Labor force, total;16519381;2024
+Maldives;MDV;Labor force, total;270346;2024
+Middle East & North Africa;MEA;Labor force, total;161908170;2024
+Mexico;MEX;Labor force, total;60958888;2024
+Marshall Islands;MHL;Labor force, total;;2024
+Middle income;MIC;Labor force, total;2698246318;2024
+North Macedonia;MKD;Labor force, total;790813;2024
+Mali;MLI;Labor force, total;9126488;2024
+Malta;MLT;Labor force, total;309623;2024
+Myanmar;MMR;Labor force, total;22741699;2024
+Middle East & North Africa (excluding high income);MNA;Labor force, total;124742565;2024
+Montenegro;MNE;Labor force, total;241523;2024
+Mongolia;MNG;Labor force, total;1449186;2024
+Northern Mariana Islands;MNP;Labor force, total;;2024
+Mozambique;MOZ;Labor force, total;15172714;2024
+Mauritania;MRT;Labor force, total;1209855;2024
+Mauritius;MUS;Labor force, total;594662;2024
+Malawi;MWI;Labor force, total;8601901;2024
+Malaysia;MYS;Labor force, total;18264000;2024
+North America;NAC;Labor force, total;194862090;2024
+Namibia;NAM;Labor force, total;1130939;2024
+New Caledonia;NCL;Labor force, total;130763;2024
+Niger;NER;Labor force, total;10486041;2024
+Nigeria;NGA;Labor force, total;113349564;2024
+Nicaragua;NIC;Labor force, total;3224663;2024
+Netherlands;NLD;Labor force, total;10316031;2024
+Norway;NOR;Labor force, total;3041647;2024
+Nepal;NPL;Labor force, total;8435336;2024
+Nauru;NRU;Labor force, total;;2024
+New Zealand;NZL;Labor force, total;3078764;2024
+OECD members;OED;Labor force, total;702167363;2024
+Oman;OMN;Labor force, total;2695516;2024
+Other small states;OSS;Labor force, total;6556766;2024
+Pakistan;PAK;Labor force, total;83643815;2024
+Panama;PAN;Labor force, total;2205785;2024
+Peru;PER;Labor force, total;18917570;2024
+Philippines;PHL;Labor force, total;50979290;2024
+Palau;PLW;Labor force, total;;2024
+Papua New Guinea;PNG;Labor force, total;3660451;2024
+Poland;POL;Labor force, total;18144559;2024
+Pre-demographic dividend;PRE;Labor force, total;418453079;2024
+Puerto Rico;PRI;Labor force, total;1150432;2024
+Korea, Dem. People's Rep.;PRK;Labor force, total;17637357;2024
+Portugal;PRT;Labor force, total;5393968;2024
+Paraguay;PRY;Labor force, total;3502274;2024
+West Bank and Gaza;PSE;Labor force, total;;2024
+Pacific island small states;PSS;Labor force, total;1033566;2024
+Post-demographic dividend;PST;Labor force, total;559654290;2024
+French Polynesia;PYF;Labor force, total;119055;2024
+Qatar;QAT;Labor force, total;2024455;2024
+Romania;ROU;Labor force, total;8214755;2024
+Russian Federation;RUS;Labor force, total;72312808;2024
+Rwanda;RWA;Labor force, total;5671034;2024
+South Asia;SAS;Labor force, total;795528906;2024
+Saudi Arabia;SAU;Labor force, total;16468629;2024
+Sudan;SDN;Labor force, total;;2024
+Senegal;SEN;Labor force, total;5763236;2024
+Singapore;SGP;Labor force, total;3672324;2024
+Solomon Islands;SLB;Labor force, total;435634;2024
+Sierra Leone;SLE;Labor force, total;2863312;2024
+El Salvador;SLV;Labor force, total;2890348;2024
+San Marino;SMR;Labor force, total;;2024
+Somalia;SOM;Labor force, total;3439353;2024
+Serbia;SRB;Labor force, total;3225464;2024
+Sub-Saharan Africa (excluding high income);SSA;Labor force, total;510174604;2024
+South Sudan;SSD;Labor force, total;;2024
+Sub-Saharan Africa;SSF;Labor force, total;510174604;2024
+Small states;SST;Labor force, total;8866881;2024
+Sao Tome and Principe;STP;Labor force, total;34471;2024
+Suriname;SUR;Labor force, total;255453;2024
+Slovakia;SVK;Labor force, total;2768748;2024
+Slovenia;SVN;Labor force, total;1054694;2024
+Sweden;SWE;Labor force, total;5707076;2024
+Eswatini;SWZ;Labor force, total;390566;2024
+Sint Maarten (Dutch part);SXM;Labor force, total;;2024
+Seychelles;SYC;Labor force, total;;2024
+Syrian Arab Republic;SYR;Labor force, total;6616919;2024
+Turks and Caicos Islands;TCA;Labor force, total;;2024
+Chad;TCD;Labor force, total;6599919;2024
+East Asia & Pacific (IDA & IBRD countries);TEA;Labor force, total;1126261695;2024
+Europe & Central Asia (IDA & IBRD countries);TEC;Labor force, total;193793412;2024
+Togo;TGO;Labor force, total;3344953;2024
+Thailand;THA;Labor force, total;40623017;2024
+Tajikistan;TJK;Labor force, total;2780399;2024
+Timor-Leste;TLS;Labor force, total;615914;2024
+Middle East & North Africa (IDA & IBRD countries);TMN;Labor force, total;124742565;2024
+Tonga;TON;Labor force, total;34784;2024
+South Asia (IDA & IBRD);TSA;Labor force, total;795528906;2024
+Sub-Saharan Africa (IDA & IBRD countries);TSS;Labor force, total;510174604;2024
+Trinidad and Tobago;TTO;Labor force, total;651597;2024
+Tunisia;TUN;Labor force, total;4246885;2024
+Turkiye;TUR;Labor force, total;36083805;2024
+Tuvalu;TUV;Labor force, total;;2024
+Tanzania;TZA;Labor force, total;32982660;2024
+Uganda;UGA;Labor force, total;22829059;2024
+Ukraine;UKR;Labor force, total;17405000;2021
+Upper middle income;UMC;Labor force, total;1409680876;2024
+Uruguay;URY;Labor force, total;1767639;2024
+United States;USA;Labor force, total;172435911;2024
+Uzbekistan;UZB;Labor force, total;13974298;2024
+St. Vincent and the Grenadines;VCT;Labor force, total;52149;2024
+Venezuela, RB;VEN;Labor force, total;11135919;2024
+British Virgin Islands;VGB;Labor force, total;;2024
+Virgin Islands (U.S.);VIR;Labor force, total;47066;2024
+Viet Nam;VNM;Labor force, total;57133476;2024
+Vanuatu;VUT;Labor force, total;118094;2024
+World;WLD;Labor force, total;3690544989;2024
+Samoa;WSM;Labor force, total;57239;2024
+Kosovo;XKX;Labor force, total;;2024
+Yemen, Rep.;YEM;Labor force, total;7847788;2024
+South Africa;ZAF;Labor force, total;27765994;2024
+Zambia;ZMB;Labor force, total;7407019;2024
+Zimbabwe;ZWE;Labor force, total;6386440;2024
